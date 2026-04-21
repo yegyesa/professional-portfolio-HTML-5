@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>Data</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+ <h1>Skill Proficiency</h1>
+</header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="data.html">Data</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+<main>
+<section>
+<table border="1">
+<thead>
+<tr>
+<th scope="col">Skill</th>
+<th scope="col">Level</th>
+<th scope="col">Experience (Years)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HTML</td>
+<td>Advanced</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Java</td>
+<td>Intermediate</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Cybersecurity</td>
+<td>Beginner</td>
+<td>1</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">Continuous learning and improvement</td>
+</tr>
+</tfoot>
+</table>
+</section>
+</main>
+<footer>
+ <p>&copy; 2026 Diana</p>
+</footer>
+</body>
+</html>

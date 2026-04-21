@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>About Me</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+ <h1>About Me</h1>
+</header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="data.html">Data</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+<main>
+<!-- Career milestones -->
+<section>
+<h2>Career Milestones</h2>
+<ol>
+<li>Started IT Degree</li>
+<li>Learned Java Programming</li>
+<li>Developed First Website</li>
+<li>Exploring Cybersecurity</li>
+</ol>
+</section>
+<!-- Technical terminology -->
+<section>
+<h2>Technical Terms</h2>
+<dl>
+<dt>HTML</dt>
+<dd>Language used to structure web pages</dd>
+<dt>CSS</dt>
+<dd>Used to style web pages</dd>
+<dt>Cybersecurity</dt>
+<dd>Protection of systems from digital threats</dd>
+</dl>
+</section>
+</main>
+<footer>
+ <p>&copy; 2026 Diana</p>
+</footer>
+</body>
+</html>
